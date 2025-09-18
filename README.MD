@@ -1,4 +1,4 @@
-# IOS Restaurant App
+# Swift Restaurant App
 
 A mobile restaurant food ordering app built with Swift and Xcode.
 Users can register, log in, browse the menu, add items to a cart, and place orders with multiple payment options.
